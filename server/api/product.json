@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Chemise élégante",
+    "price": 59.99,
+    "description": "Une chemise en coton de haute qualité pour toutes les occasions.",
+    "image_url": "https://example.com/images/chemise-elegante.jpg"
+  },
+  {
+    "name": "Pantalon chino",
+    "price": 79.99,
+    "description": "Un pantalon chino confortable et polyvalent pour un look décontracté chic.",
+    "image_url": "https://example.com/images/pantalon-chino.jpg"
+  },
+  {
+    "name": "Robe d'été",
+    "price": 89.99,
+    "description": "Une robe légère et colorée parfaite pour les journées ensoleillées.",
+    "image_url": "https://example.com/images/robe-ete.jpg"
+  },
+  {
+    "name": "Chaussures de sport",
+    "price": 129.99,
+    "description": "Des chaussures de course performantes pour vos séances d'entraînement.",
+    "image_url": "https://example.com/images/chaussures-sport.jpg"
+  },
+  {
+    "name": "Sac à main en cuir",
+    "price": 149.99,
+    "description": "Un sac à main élégant en cuir véritable pour un style sophistiqué.",
+    "image_url": "https://example.com/images/sac-cuir.jpg"
+  },
+  {
+    "name": "Montre classique",
+    "price": 199.99,
+    "description": "Une montre intemporelle avec un design élégant et sobre.",
+    "image_url": "https://example.com/images/montre-classique.jpg"
+  },
+  {
+    "name": "Veste en jean",
+    "price": 69.99,
+    "description": "Une veste en jean durable et tendance pour un look décontracté.",
+    "image_url": "https://example.com/images/veste-jean.jpg"
+  },
+  {
+    "name": "Écharpe en laine",
+    "price": 39.99,
+    "description": "Une écharpe douce et chaude pour affronter les journées fraîches.",
+    "image_url": "https://example.com/images/echarpe-laine.jpg"
+  },
+  {
+    "name": "Lunettes de soleil",
+    "price": 89.99,
+    "description": "Des lunettes de soleil stylées avec protection UV pour l'été.",
+    "image_url": "https://example.com/images/lunettes-soleil.jpg"
+  },
+  {
+    "name": "Cravate en soie",
+    "price": 49.99,
+    "description": "Une cravate élégante en soie pour les occasions formelles.",
+    "image_url": "https://example.com/images/cravate-soie.jpg"
+  },
+  {
+    "name": "Pull en cachemire",
+    "price": 159.99,
+    "description": "Un pull doux et luxueux en cachemire pour un confort optimal.",
+    "image_url": "https://example.com/images/pull-cachemire.jpg"
+  },
+  {
+    "name": "Bottes en cuir",
+    "price": 179.99,
+    "description": "Des bottes robustes en cuir pour affronter tous les terrains.",
+    "image_url": "https://example.com/images/bottes-cuir.jpg"
+  },
+  {
+    "name": "Jupe plissée",
+    "price": 69.99,
+    "description": "Une jupe plissée élégante pour un look féminin et raffiné.",
+    "image_url": "https://example.com/images/jupe-plissee.jpg"
+  },
+  {
+    "name": "Ceinture en cuir",
+    "price": 34.99,
+    "description": "Une ceinture en cuir de qualité pour compléter votre tenue.",
+    "image_url": "https://example.com/images/ceinture-cuir.jpg"
+  },
+  {
+    "name": "T-shirt imprimé",
+    "price": 29.99,
+    "description": "Un t-shirt confortable avec un imprimé original et tendance.",
+    "image_url": "https://example.com/images/tshirt-imprime.jpg"
+  },
+  {
+    "name": "Blazer chic",
+    "price": 129.99,
+    "description": "Un blazer élégant pour un look professionnel et sophistiqué.",
+    "image_url": "https://example.com/images/blazer-chic.jpg"
+  },
+  {
+    "name": "Sandales d'été",
+    "price": 59.99,
+    "description": "Des sandales confortables et stylées pour les journées chaudes.",
+    "image_url": "https://example.com/images/sandales-ete.jpg"
+  },
+  {
+    "name": "Chapeau de paille",
+    "price": 24.99,
+    "description": "Un chapeau de paille léger pour vous protéger du soleil avec style.",
+    "image_url": "https://example.com/images/chapeau-paille.jpg"
+  },
+  {
+    "name": "Portefeuille en cuir",
+    "price": 44.99,
+    "description": "Un portefeuille élégant en cuir pour ranger vos essentiels.",
+    "image_url": "https://example.com/images/portefeuille-cuir.jpg"
+  },
+  {
+    "name": "Foulard en soie",
+    "price": 39.99,
+    "description": "Un foulard en soie coloré pour ajouter une touche d'élégance à votre tenue.",
+    "image_url": "https://example.com/images/foulard-soie.jpg"
+  }
+]
